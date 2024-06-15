@@ -9,10 +9,11 @@ This project is divided into two main tasks:
 Customers who book flights with British Airways (BA) encounter many touchpoints with the BA brand. Understanding their feelings, needs, and feedback is essential for enhancing the overall customer experience.
 
 This task involves scraping and collecting customer feedback and review data from Skytrax, a third-party review platform. The collected data is then analyzed to uncover insights that can help improve the customer experience.
-![image](https://github.com/aqsaadab786/British-Airways-Insights-and-Predictions/assets/118045039/7c97435e-315e-41c3-9166-4d5e5fc344ed)
 
 Key Insights Uncovered
 Below is a summary of the insights derived from the Skytrax customer review data:
+![image](https://github.com/aqsaadab786/British-Airways-Insights-and-Predictions/assets/118045039/e36c23ea-82bd-47cf-b27a-dfe13a7bb83f)
+
 
 
 ## Task 2: Predicting Customer Buying Behaviour
@@ -20,6 +21,7 @@ In today's information-rich environment, the buying cycle has significantly evol
 
 This task focuses on building a predictive model to forecast successful bookings using customer bookings data. The model aims to help British Airways anticipate and respond to customer needs more effectively.
 
+![image](https://github.com/aqsaadab786/British-Airways-Insights-and-Predictions/assets/118045039/43118561-f2d2-4e58-a16e-702566072334)
 
 ##About
 This Data Science project aims to analyze customer feedback on service quality and identify areas for improvement to enhance the overall customer experience.
